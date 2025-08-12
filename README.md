@@ -56,3 +56,7 @@ Northern provinces like Yukon, Nunavut, and Northwest Territories stood out for 
 - The bottom 10 customers could be re-engaged through loyalty offers or feedback surveys.
 - Some provinces, like Ontario, showed strong niche demand (e.g., appliances).
 
+**Recommendations**
+Customer Retention Strategy — Offer loyalty rewards or targeted discounts to low-spending customers.
+Optimize Shipping Costs — Increase use of Express Air for high-priority, high-margin orders.
+Product Bundling — Encourage cross-selling in top-performing categories.
