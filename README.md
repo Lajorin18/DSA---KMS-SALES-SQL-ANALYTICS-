@@ -30,6 +30,7 @@ From the ranking queries, Ontario, Alberta, and Quebec consistently appeared as 
 
 **3. Total Sales for a Specific Product in a Region**
 When the query filtered for a specific combination — for example, Appliances in Ontario — the data showed that certain product-region pairings can be disproportionately profitable. Ontario had strong sales in Appliances, driven by both individual consumers and business purchases for offices and facilities. This level of targeted analysis allows decision-makers to identify niche opportunities that may not be obvious in total sales figures alone. It also shows that certain provinces may have unique demands based on climate, lifestyle, or industrial activity. By focusing promotions on products that align with regional preferences, the business can achieve higher conversion rates and better ROI on marketing spend.
+
 **4. Bottom 10 Customers**
 The query ranking customers by total orders and sales revealed the bottom 10 least active customers in the dataset. These customers made few purchases over the four years, often with low transaction values. While it may be tempting to focus solely on top buyers, understanding why these customers spend less is equally important for business growth. They may be unaware of the company’s full product range, dissatisfied with service, or sensitive to pricing. Offering them loyalty incentives, seasonal discounts, or targeted re-engagement campaigns could help convert them into more valuable, repeat customers.
 
